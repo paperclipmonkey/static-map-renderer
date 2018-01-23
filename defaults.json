@@ -1,0 +1,12 @@
+{
+  "width": 250,
+  "height": 250,
+  "center": [52.2, 0.25],
+  "zoom": 10,
+  "tileLayers": [
+    {
+      "url": "http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "options": { "attribution": "&copy; <a href='http://osm.org/copyright'>OpenStreetMap</a> contributors"}
+    }
+  ]
+}

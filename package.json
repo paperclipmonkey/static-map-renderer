@@ -1,0 +1,18 @@
+{
+  "name": "staticmap",
+  "version": "0.0.1",
+  "description": "A static map generator based on GET parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-request-id": "^1.4.0",
+    "leaflet-headless": "^0.2.6",
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0"
+  }
+}
